@@ -17,9 +17,10 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Themakiezer</string>
+    <string name="app_name">Thema\'s</string>
     <string name="menu_apply">Toepassen</string>
     <string name="menu_uninstall">Verwijderen</string>
+    <string name="menu_about">Over</string>
     <string name="theme_current">%s (huidige)</string>
     <string name="theme_current_author">Maker: </string>
     <string name="theme_current_name">Naam: </string>
