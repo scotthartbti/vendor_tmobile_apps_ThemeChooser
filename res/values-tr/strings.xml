@@ -19,12 +19,12 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Tema Seçici</string>
 
-    <string name="menu_apply">Uygula</string>
+    <string name="menu_header">Tema Seçenekleri</string>
     <string name="menu_uninstall">Kaldır</string>
-
     <string name="theme_current">%s (şimdiki)</string>
     <string name="theme_change_dialog_title">Uygulanıyor&#8230;</string>
     <string name="switching_to_theme">Değiştiriliyor: <xliff:g id="theme">%s</xliff:g>&#8230;</string>
+    <string name="item_count">%1$d/%2$d</string>
 
     <string name="dialog_theme_error_title">Tema hatası</string>
     <string name="dialog_missing_host_density_msg">Üzgünüz, bu temanın cihazınızın ekran boyutuna uygun nesneleri eksik</string>

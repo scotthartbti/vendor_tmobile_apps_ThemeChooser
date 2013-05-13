@@ -18,13 +18,15 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">主题选择器</string>
+    <string name="app_title">主题选择</string>
+    <string name="apply">套用</string>
 
-    <string name="menu_apply">应用</string>
-    <string name="menu_uninstall">卸载</string>
-
-    <string name="theme_current">%s (使用中)</string>
+    <string name="menu_header">主题选项</string>
+    <string name="menu_uninstall">解除安装</string>
+    <string name="theme_current">%s（使用中）</string>
     <string name="theme_change_dialog_title">应用中&#8230;</string>
     <string name="switching_to_theme">正在切换至 <xliff:g id="theme">%s</xliff:g>&#8230;</string>
+    <string name="item_count">%1$d／%2$d</string>
 
     <string name="dialog_theme_error_title">主题错误</string>
     <string name="dialog_missing_host_density_msg">此主题缺少适合您设备屏幕大小的资源文件</string>
