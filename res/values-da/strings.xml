@@ -20,8 +20,12 @@
     <string name="app_name">Temavælger</string>
     <string name="menu_apply">Anvend</string>
     <string name="menu_uninstall">Afinstallér</string>
+    <string name="menu_about">Om</string>
 
     <string name="theme_current">%s (nuværende)</string>
+    <string name="theme_current_author">Forfatter: </string>
+    <string name="theme_current_name">Navn: </string>
+    <string name="theme_current_package">Pakke: </string>
     <string name="theme_change_dialog_title">Anvender&#8230;</string>
     <string name="switching_to_theme">Skifter til <xliff:g id="theme">%s</xliff:g>&#8230;</string>
 
