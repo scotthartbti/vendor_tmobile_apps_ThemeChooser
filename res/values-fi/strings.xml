@@ -21,8 +21,12 @@
     
     <string name="menu_apply">Hyväksy</string>
     <string name="menu_uninstall">Poista</string>
+    <string name="menu_about">Tietoja</string>
 
     <string name="theme_current">%s (valittu)</string>
+    <string name="theme_current_author">Tekijä: </string>
+    <string name="theme_current_name">Nimi: </string>
+    <string name="theme_current_package">Paketti: </string>
     <string name="theme_change_dialog_title">Otetaan käyttöön&#8230;</string>
     <string name="switching_to_theme">Vaihdetaan teemaan <xliff:g id="theme">%s</xliff:g>&#8230;</string>
 
